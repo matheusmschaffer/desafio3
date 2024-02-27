@@ -1,0 +1,16 @@
+.btnA {
+    background-color: #FF6464;
+    color: aliceblue;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btnA:hover {
+    color: rgb(255, 178, 178);
+    background-color: #cf4949;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+}
