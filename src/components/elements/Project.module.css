@@ -1,0 +1,10 @@
+.project {
+    margin: 0 10% 5% 0;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: thin solid #E0E0E0;
+}
+
+.description {
+    margin-left: 10%;
+}
