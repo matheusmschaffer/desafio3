@@ -10,6 +10,7 @@ function Footer() {
                 <li><a href='https://github.com/matheusmschaffer' target='_blank'><FaGithub size={30} /></a></li>
                 <li><a href='https://www.linkedin.com/in/matheus-martins-schaffer-54b4961b8/' target='_blank'><FaLinkedin size={30} /></a></li>
             </ul>
+            <p>Copyright ©2030 All rights reserved</p>
         </div>
     )
 } export default Footer
